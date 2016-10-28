@@ -43,4 +43,5 @@ public class CameraActivity extends AppCompatActivity {
 
 /*
 Reference: https://www.tutorialspoint.com/android/android_camera.htm
+https://www.tutorialspoint.com/android/android_intents_filters.htm
  */
